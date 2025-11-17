@@ -58,7 +58,7 @@
 
 A. Make coding faster
 
-✅ B. Clear requirements before coding begins
+B. Clear requirements before coding begins ✅
 
 C. Remove developers
 
@@ -68,7 +68,7 @@ D. Avoid documentation
 
 A. Writing more code manually
 
-✅ B. Thinking in systems and clear instructions
+B. Thinking in systems and clear instructions ✅
 
 C. Memorizing more syntax
 
@@ -78,7 +78,7 @@ D. Working without any tools
 
 A. AI stops responding
 
-✅ B. Architecture becomes hard to extend
+B. Architecture becomes hard to extend ✅
 
 C. Code runs slow
 
@@ -88,7 +88,7 @@ D. Fewer comments written
 
 A. They replace the developer completely
 
-✅ B. Handle repetitive tasks so dev focuses on design & problem-solving
+B. Handle repetitive tasks so dev focuses on design & problem-solving ✅
 
 C. Make coding faster but less reliable
 
@@ -100,7 +100,7 @@ A. Knows little about everything
 
 B. Deep in only one field
 
-✅ C. Deep skills in multiple related domains
+C. Deep skills in multiple related domains ✅
 
 D. Works without AI tools
 
