@@ -12,17 +12,21 @@
 ### 2. Vibe Coding vs Specification-Driven Development
 
 **Q1: Why does Vibe Coding usually create problems after one week?**
+
 **A1:** Vibe Coding focuses on quick coding without clear specifications. This often leads to messy, hard-to-extend architecture, unclear logic, and bugs that pile up as the project grows.
 
 **Q2: How would Specification-Driven Development prevent those problems?**
+
 **A2:** Specification-Driven Development sets clear requirements and structure before coding. It ensures the system is well-planned, maintainable, and scalable, reducing bugs and architectural issues.
 
 ---
 
 **Q1: How does architecture-first thinking change the role of a developer in AIDD?**
+
 **A1:** Developers shift from typing code line by line to **planning, designing, and guiding AI**. Their main job becomes thinking strategically, reviewing outputs, and ensuring the system works at scale.
 
 **Q2: Why must developers think in layers and systems instead of raw code?**
+
 **A2:** Thinking in layers and systems ensures the software is **organized, scalable, and maintainable**. Focusing only on raw code leads to messy, hard-to-extend projects.
 
 ---
