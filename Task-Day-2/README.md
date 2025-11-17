@@ -45,11 +45,13 @@
 ### Part B — Practical Task
 
 **1️⃣ CLI Prompt**  
+
 ![CLI Prompt](https://github.com/HadiqaGohar/AIDD-30-Days-Challenge/blob/main/Task-Day-2/Screenshot%20from%202025-11-17%2014-55-19.png?raw=true)
 
 
 **2️⃣ AI-Generated Specification**  
-![AI Output](https://raw.githubusercontent.com/username/repo/main/output-screenshot.png)
+
+![AI Output](https://github.com/HadiqaGohar/AIDD-30-Days-Challenge/blob/main/Task-Day-2/Screenshot%20from%202025-11-17%2014-58-54.png?raw=true)
 
 ---
 
