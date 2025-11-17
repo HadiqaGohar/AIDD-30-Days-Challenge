@@ -1,12 +1,11 @@
----
 
 ### 1. Nine Pillars Understanding
 
 **Why using AI agents for repetitive setup tasks helps me grow as a system architect:**  
-AI agents handle boring tasks like folders, configs, and tests, saving hours. That time goes straight into big-picture thinking, system design, and planning for scale. I stop being a typist and start thinking like a real architect.
+**A1:** AI agents handle boring tasks like folders, configs, and tests, saving hours. That time goes straight into big-picture thinking, system design, and planning for scale. I stop being a typist and start thinking like a real architect.
 
 **How the Nine Pillars help me become an M-Shaped Developer:**  
-The Nine Pillars act like a team around me. I can go deep in 2–4 areas I love while AI handles the rest, letting me build multiple strong skills instead of just one.
+**A2:** The Nine Pillars act like a team around me. I can go deep in 2–4 areas I love while AI handles the rest, letting me build multiple strong skills instead of just one.
 
 ---
 
