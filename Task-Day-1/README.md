@@ -2,7 +2,7 @@
 
 AI‑Driven Development isn’t just coding faster it’s thinking smarter. I’m no longer typing line by line; I guide AI, review outputs, and focus on strategy and quality.
 
-The future of Human–AI collaboration is like running a supercharged team: AI handles the heavy lifting, while humans lead with vision, design, and reasoning. Productivity skyrockets, but the human role evolves — we become thinkers, creators, and orchestrators.
+The future of Human–AI collaboration is like running a supercharged team: AI handles the heavy lifting, while humans lead with vision, design, and reasoning. Productivity skyrockets, but the human role evolves we become thinkers, creators, and orchestrators.
 
 I’m not afraid of AI; I’m excited. It’s turning me into a 10× better developer, letting me dream bigger and build faster than ever.
 
