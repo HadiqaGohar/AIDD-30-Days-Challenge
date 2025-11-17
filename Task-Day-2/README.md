@@ -42,8 +42,6 @@
 
 ## 📁 Part B — Practical Task (Screenshot Required)
 
-### Part B — Practical Task
-
 **1️⃣ CLI Prompt**  
 
 ![CLI Prompt](https://github.com/HadiqaGohar/AIDD-30-Days-Challenge/blob/main/Task-Day-2/Screenshot%20from%202025-11-17%2014-55-19.png?raw=true)
