@@ -30,8 +30,27 @@ Two prominent developer tools are Google Antigravity (an agentic development pla
 
 ## 🌟 PART B — Practical Task (Screenshot Required)
 
-![Screenshot 1](https://raw.githubusercontent.com/HadiqaGohar/AIDD-30-Days-Challenge/main/Task_Day_3/Screenshot%20from%202025-11-21%2023-36-48.png)
+Run 
+`
+npm upgrade -g @google/gemini-cli
+`
+<img width="721" height="188" alt="image" src="https://github.com/user-attachments/assets/a4943ccb-d044-4917-9f14-30093236ea5f" />
+
+Run
+`
+gemini
+`
+To enable Gemini 3 Pro, use the /settings command in Gemini CLI and set Preview Features to true.
+`
+/settings
+`
+<img width="1857" height="1055" alt="image" src="https://github.com/user-attachments/assets/d22d5856-1cb7-48c2-9b50-ee1944982367" />
+
+After 
+
 ![Screenshot 2](https://raw.githubusercontent.com/HadiqaGohar/AIDD-30-Days-Challenge/main/Task_Day_3/Screenshot%20from%202025-11-21%2023-36-34.png)
+
+![Screenshot 1](https://raw.githubusercontent.com/HadiqaGohar/AIDD-30-Days-Challenge/main/Task_Day_3/Screenshot%20from%202025-11-21%2023-36-48.png)
 
 
 
