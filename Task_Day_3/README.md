@@ -31,6 +31,10 @@ Two prominent developer tools are Google Antigravity (an agentic development pla
 ## 🌟 PART B — Practical Task (Screenshot Required)
 
 
+![Day 3 Screenshot 1](Task_Day_3/Screenshot%20from%202025-11-21%2023-36-48.png)
+
+![Day 3 Screenshot 2](Task_Day_3/Screenshot%20from%202025-11-21%2023-36-34.png)
+
 
 
 
