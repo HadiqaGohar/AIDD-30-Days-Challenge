@@ -38,6 +38,7 @@ First, upgrade the Gemini CLI globally
 `
 npm upgrade -g @google/gemini-cli
 `
+
 <img width="721" height="188" alt="image" src="https://github.com/user-attachments/assets/a4943ccb-d044-4917-9f14-30093236ea5f" />
 
 ##### Run
