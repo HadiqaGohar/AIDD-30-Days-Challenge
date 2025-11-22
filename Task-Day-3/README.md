@@ -61,7 +61,7 @@ To enable Gemini 3 Pro, use the /settings command in Gemini CLI and set Preview 
 
 ##### Finally, check that ‘PRO’ appears in the bottom-right corner.
 
-![Screenshot 1](https://raw.githubusercontent.com/HadiqaGohar/AIDD-30-Days-Challenge/main/Task_Day_3/Screenshot%20from%202025-11-21%2023-36-48.png)
+<img width="906" height="506" alt="image" src="https://github.com/user-attachments/assets/e44673b2-7035-4c13-8d4e-5a14dacb3a3b" />
 
 
 
