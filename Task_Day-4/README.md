@@ -4,6 +4,11 @@
 
 ## Live Demo
 
+**CODE**
+
+[`https://github.com/HadiqaGohar/IntelliNote-AI`](https://github.com/HadiqaGohar/IntelliNote-AI)
+
+
 **Live Link:**  
 
 [`https://intellinote-ai-bjrw4uwen2pbdxfxwyyktz.streamlit.app/`](https://intellinote-ai-bjrw4uwen2pbdxfxwyyktz.streamlit.app/)  
