@@ -39,6 +39,11 @@ vim settings.json
   }
 }
 ```
+---
+
+### Make sure you choose this option
+
+<img width="878" height="261" alt="image" src="https://github.com/user-attachments/assets/634b91e8-686e-41fc-a172-fb54ba2addb6" />
 
 ---
 
