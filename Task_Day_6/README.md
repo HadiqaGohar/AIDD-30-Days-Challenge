@@ -85,6 +85,6 @@ vim settings.json
 
 #### Result
 
-<img width="1851" height="676" alt="image" src="https://github.com/user-attachments/assets/f614cdca-e72c-423e-9be9-a46561eca486" />
+<img width="1855" height="673" alt="image" src="https://github.com/user-attachments/assets/49164905-f0b7-46ee-99ed-cfffc6b3d9a0" />
 
 
