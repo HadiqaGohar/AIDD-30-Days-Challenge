@@ -1,4 +1,4 @@
-# Task - 6
+# AIDD 30-Day Challenge — Task 6
 
 ## YouTube Video Tutorial
 [Connect GitHub with Gemini CLI using MCP](https://youtu.be/KpZgj_jcpFs?si=m_KIgbo5udiVpF4X)
