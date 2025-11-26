@@ -66,12 +66,25 @@ vim settings.json
 
 ### ✅ Final Output
 
-#### Question
+#### Question : 1
 
 <img width="356" height="84" alt="question screenshot" src="https://github.com/user-attachments/assets/28091edb-d660-40b9-86ab-4d4331b7d68a" />
 
-#### Answer
+#### Answer : 1
 
 <img width="508" height="200" alt="answer screenshot" src="https://github.com/user-attachments/assets/a34ef49a-112b-441b-b3af-11182db65a0f" />
+
+---
+#### Question : 2
+
+<img width="1855" height="517" alt="image" src="https://github.com/user-attachments/assets/64246dc3-9184-46ca-bdd5-4c721c408c31" />
+
+#### Answer : 2
+
+<img width="1557" height="627" alt="image" src="https://github.com/user-attachments/assets/76037a68-b0d0-45c7-93f4-a5607555ebb1" />
+
+#### Result
+
+<img width="1851" height="676" alt="image" src="https://github.com/user-attachments/assets/f614cdca-e72c-423e-9be9-a46561eca486" />
 
 
