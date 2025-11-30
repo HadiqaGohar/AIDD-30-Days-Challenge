@@ -1,4 +1,3 @@
-<img width="1853" height="1011" alt="image" src="https://github.com/user-attachments/assets/83d8c85e-a88c-4a3e-8047-0210d2552f2f" /># AIDD 30-Day Challenge — Task 7
 
 ## 🔹 What is SPECKit Plus? – Write a short note
 
@@ -43,5 +42,4 @@ The development phase — actual **coding**, **testing**, **debugging**, and bui
 
 <img width="1853" height="1054" alt="image" src="https://github.com/user-attachments/assets/5d15a221-a4ab-4474-944c-af9786774087" />
 
-![Uploading image.png…]()
 
