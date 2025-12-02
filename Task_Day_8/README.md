@@ -1,6 +1,6 @@
 # AIDD 30-Day Challenge — Task 8
 
-**Repo:** [Task_Day_8](https://github.com/HadiqaGohar/Task_Day_8)
+**Github Repo:** [Task_Day_8](https://github.com/HadiqaGohar/Task_Day_8)
 
 ---
 
